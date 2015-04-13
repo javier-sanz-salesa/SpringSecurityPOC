@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SimpleWebApp/simple-web-app/simple-web-app.iml" filepath="$PROJECT_DIR$/SimpleWebApp/simple-web-app/simple-web-app.iml" />
+      <module fileurl="file://$USER_HOME$/git/spring-security-oauth/samples/oauth2/sparklr/sparklr2.iml" filepath="$USER_HOME$/git/spring-security-oauth/samples/oauth2/sparklr/sparklr2.iml" />
+      <module fileurl="file://$USER_HOME$/git/spring-security-oauth/samples/oauth2/tonr/tonr2.iml" filepath="$USER_HOME$/git/spring-security-oauth/samples/oauth2/tonr/tonr2.iml" />
     </modules>
   </component>
 </project>
